@@ -1,2 +1,2 @@
-At work: wrangling GraphQL APIs and working mostly in Node JS
-Not at work: teaching coding
+_work_: wrangling GraphQL APIs and working mostly in Node JS  
+_not-work_: teaching coding, Python game dev atm
